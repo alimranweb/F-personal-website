@@ -1,0 +1,30 @@
+body {
+    font-family: 'Karla', sans-serif;
+    
+}
+.haf-width {
+    width: 25%;
+    float: left;
+    padding-left: 15%;
+    margin-top: 6%;
+}
+h2 {
+    font-size: 40px;
+    color: rgb(206, 35, 35);
+}
+.haf-width img {
+    width: 100%;
+}
+.clixk-button {
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.header-bg {
+    background-image: url("persional-web/header-bg.png");
+}
+section {
+    height: 500px;
+}
