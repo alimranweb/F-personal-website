@@ -2,28 +2,108 @@ body {
     font-family: 'Karla', sans-serif;
     
 }
+img {
+    width: 100%;
+}
 .haf-width {
     width: 25%;
     float: left;
     padding-left: 15%;
-    margin-top: 6%;
+    margin-top: -5%;
 }
-h2 {
-    font-size: 40px;
+.khan h1 {
+    margin: 0px;
+    margin: 0px;
+    font-size: 70px;
     color: rgb(206, 35, 35);
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 50px;
+}
+p {
+    font-size: 18px;
+    margin-top: 50px;
+}
+.khan {
+    margin-top: 65px;
 }
 .haf-width img {
-    width: 100%;
+    width: 650px;
 }
 .clixk-button {
     text-decoration: none;
-    background-color: rgb(255, 0, 0);
-    padding: 10px 30px;
+    background-color: #eb3a3a;
+    padding: 20px 50px;
     border-radius: 5px;
-    font-weight: 700;
+    font-weight: 900;
+    color: #fff;
 }
+.kita-jane {
+    padding-top: 45px;
+}
+
 .header-bg {
     background-image: url("persional-web/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0px;
+    
+}
+.biography-bg {
+    background-image: url("persional-web/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 300px 0px;
+}
+.text-down {
+    margin-top: 65px;
+}
+.latest-width {
+    width: 25%;
+    float: left;
+    margin-left: 40px;
+}
+.all-margin {
+    margin-left: 15%;
+    margin-top:5%
+}
+.text-center {
+    margin-left:42%;
+    margin-top:150px
+}
+.latest-work-bg {
+    background-image: url("persional-web/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: 40% 29%;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.text-alaing{
+    text-align: center;
+}
+.what-client {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.Bruce-moccy {
+   margin-top: 0px;
+   font-size: 20px;
+}
+h4 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.Lorem-ipsum {
+    width:25%;
+    margin-left:38%
 }
 section {
     height: 500px;
