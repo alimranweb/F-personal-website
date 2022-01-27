@@ -24,8 +24,14 @@ h3 {
     margin: 0px;
     font-size: 50px;
 }
+h4 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
 p {
-    font-size: 18px;
+    font-size:  20px;
     margin-top: 50px;
 }
 .khan {
@@ -36,9 +42,9 @@ p {
 }
 .clixk-button {
     text-decoration: none;
-    background-color: #eb3a3a;
+    background-image: linear-gradient(#ee4167, #EC5299);
     padding: 20px 50px;
-    border-radius: 5px;
+    border-radius: 7px;
     font-weight: 900;
     color: #fff;
 }
@@ -88,22 +94,50 @@ p {
     text-align: center;
 }
 .what-client {
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 120px;
+    margin-bottom: 120px;
 }
 .Bruce-moccy {
    margin-top: 0px;
    font-size: 20px;
 }
-h4 {
-    padding: 0px;
-    margin: 0px;
-    font-size: 25px;
-    margin-bottom: 15px;
-}
 .Lorem-ipsum {
-    width:25%;
-    margin-left:38%
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 700;
+}
+.last-link {
+    text-decoration: none;
+    font-size: 40px;
+    color: #fff;
+
+}
+.last-div {
+    background-image: linear-gradient(#ee4167, #EC5299);
+    width: 925px;
+    height: 225px;
+    border-radius: 15px;
+    margin:auto;
+    margin-top: 100px;
+    color: #fff;
+}
+.footer-bg {
+    background-image: url(persional-web/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 110px;
+}
+.last-div, p, a {
+    padding-top: 10px;
+}
+footer, p {
+    text-align: center;
+    font-size: 15px;
+   padding-bottom: 10px;
 }
 section {
     height: 500px;
